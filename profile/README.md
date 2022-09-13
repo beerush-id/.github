@@ -1,5 +1,5 @@
 ### Build an awesome, *-Friendly Technology 🤩
-We are building a technology, mostly an App to makes life easier, and so we call it User Friendly, Developer Friendly, and Designer Friendly.
+We are building a technology, mostly an App to makes building app easier, and so we call it User Friendly, Developer Friendly, and Designer Friendly.
 
 #### 🤗 User Friendly
 * Technology that easy-to-use by the End Users.
