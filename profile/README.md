@@ -1,6 +1,6 @@
-# Crafting a Tri-Friendly Technology Ecosystem 🤩
+<h1 align="center">Crafting a Tri-Friendly Technology Ecosystem 🤩</h1>
 
-Our vision is to create a tech ecosystem that seamlessly integrates developers, designers, and users. With a suite of carefully designed tools, we want to bring about substantial benefits in each of these domains.
+<p align="center">Our vision is to create a tech ecosystem that seamlessly integrates developers, designers, and users. With a suite of carefully designed tools, we want to bring about substantial benefits in each of these domains.</p>
 
 ## 👷 Developer-Friendly
 
